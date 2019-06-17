@@ -1,0 +1,23 @@
+{
+  "name": "2-entregaindividual",
+  "version": "1.0.0",
+  "description": "Segunda entrega individal con vista web",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "hbs": "^4.0.4",
+    "jquery": "^3.4.1",
+    "node": "^12.4.0",
+    "nodemon": "^1.19.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elkingutierrex | elkin.gutierrex@gmail.com",
+  "license": "ISC"
+}
